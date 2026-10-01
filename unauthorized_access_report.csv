@@ -1,0 +1,7 @@
+Timestamp,Platform,Target_Account,Source_IP,Event_Type
+Oct 01 10:14:02,Linux / SSH,admin,192.168.1.105,Failed Authentication (Brute-Force)
+Oct 01 10:14:05,Linux / SSH,admin,192.168.1.105,Failed Authentication (Brute-Force)
+Oct 01 10:14:09,Linux / SSH,root,192.168.1.105,Failed Authentication (Brute-Force)
+Oct 01 10:20:11,Windows / Security Audit,Administrator,203.0.113.19,Failed Logon (EventID 4625)
+Oct 01 10:20:14,Windows / Security Audit,Administrator,203.0.113.19,Failed Logon (EventID 4625)
+Oct 01 10:20:18,Windows / Security Audit,service_account,203.0.113.19,Failed Logon (EventID 4625)
